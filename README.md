@@ -29,4 +29,4 @@ Our first batch of 20+ real-world Vulnerability Proofs of Concept (PoCs) will be
 ## Contact & Build in Public
 The core system is currently closed-source. For deep technical teardowns of Vibe Engine's architecture, OOB Bypass techniques, and the latest vulnerability PoC analyses, follow the journey on Twitter/X:
 
-🐦 **[Twitter/X: @j427467]** 
+🐦 **[Twitter/X: @StevenJ_Sec]** 
